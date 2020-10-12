@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\bin\Debug\netcoreapp2.1\Week7Functionss.deps.json
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\bin\Debug\netcoreapp2.1\Week7Functionss.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\bin\Debug\netcoreapp2.1\Week7Functionss.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\bin\Debug\netcoreapp2.1\Week7Functionss.dll
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\bin\Debug\netcoreapp2.1\Week7Functionss.pdb
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.dll
+C:\Users\opilane\source\repos\Week7Functionss\Week7Functionss\obj\Debug\netcoreapp2.1\Week7Functionss.pdb
